@@ -247,6 +247,6 @@ ModelManifest.xml
 .fake/
 
 #Library Folder 
-Library/
-Library/metadata/ 
-Tanks/Tanks - Final Project/Library/
+#Library/
+#Library/metadata/ 
+#Tanks/Tanks - Final Project/Library/
