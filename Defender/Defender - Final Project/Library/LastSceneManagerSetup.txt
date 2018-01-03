@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Defender.unity
+  isLoaded: 1
+  isActive: 1
